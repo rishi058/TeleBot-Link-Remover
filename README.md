@@ -11,10 +11,8 @@ A Python-based **Telegram Bot** for deleting all kind of URLs and links in almos
 
 ## Using
 
+Add .env file and set values for TOKEN, ADMIN
+
 ```bash
 $ pip install -r requirements.txt
-or
-$ pip install pyTelegramBotAPI
 ```
-
-© Copyright Max Base, 2022
